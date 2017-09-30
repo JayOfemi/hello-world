@@ -1,6 +1,6 @@
 # hello-world
 My First Repository
 
-Wassup yall,
+Wassup world,
 
 Music is life and Tom Brady is the greatest quarterback of all time.
